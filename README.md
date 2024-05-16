@@ -6,7 +6,7 @@ How to run Laravel on your Browser with [Browser PHP](https://github.com/capsule
 <br>
 
 > [!NOTE]
-> Access the CodeSandbox demo via this link : [CodeSandbox Demo](https://codesandbox.io/p/devbox/github/capsulescodes/articles/tree/012-run-laravel-on-your-browser-with-browser-php)
+> Access the CodeSandbox demo via this link : [CodeSandbox Demo](https://codesandbox.io/p/github/tonidy/laravel-from-browser)
 
 <br>
 
