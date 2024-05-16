@@ -1,6 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/capsulescodes/articles/main/capsules-articles-image.svg" width="300px" height="200px" /></p>
-
-
 ## About
 
 How to run Laravel on your Browser with [Browser PHP](https://github.com/capsulescodes/browser-php).
